@@ -116,4 +116,5 @@ The following authors have committed 20 lines or more (ordered according to the 
 * Gulan
 * Michael Lavelle
 
-
+# 코드 실행하는 방법
+cmd에 python gptHTTP.py 입력
